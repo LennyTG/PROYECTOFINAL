@@ -1,18 +1,18 @@
 @page
 @{
-    double ladoA = 5.0;
-    double ladoB = 6.0;
-    double ladoC = 7.0;
+    double lado1 = 5.0;
+    double lado2 = 6.0;
+    double lado3 = 7.0;
     double baseTriangulo = 8.0;
     double alturaTriangulo = 9.0;
     double alturaPrisma = 15.0;
 
-    double perimetro = Application.Triangulo.CalcularPerimetro(ladoA, ladoB, ladoC);
+    double perimetro = Application.Triangulo.CalcularPerimetro(lado1, lado2, lado3);
     double area = Application.Triangulo.CalcularArea(baseTriangulo, alturaTriangulo);
     double volumen = Application.PrismaTriangular.CalcularVolumen(area, alturaPrisma);
 }
 
-<h1>Cálculos de Triángulo y Prisma Triangular</h1>
-<p>El perímetro del triángulo es: @(perimetro) cm</p>
-<p>El área del triángulo es: @(area) cm²</p>
-<p>El volumen del prisma triangular es: @(volumen) cm³</p>
+<h1>Cálculo de Triángulo y Prisma Triangular</h1>
+<p>Perímetro del triángulo: @(perimetro) cm</p>
+<p>Área del triángulo: @(area) cm²</p>
+<p>Volumen del prisma triangular: @(volumen) cm³</p>

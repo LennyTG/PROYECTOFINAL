@@ -444,3 +444,4 @@ C:\Users\lento\Desktop\INGSOFT9\test\WebApp.IntegrationTest\obj\Debug\net9.0\ref
 C:\Users\lento\Desktop\INGSOFT9\test\WebApp.IntegrationTest\obj\Debug\net9.0\WebApp.IntegrationTest.pdb
 C:\Users\lento\Desktop\INGSOFT9\test\WebApp.IntegrationTest\obj\Debug\net9.0\WebApp.IntegrationTest.genruntimeconfig.cache
 C:\Users\lento\Desktop\INGSOFT9\test\WebApp.IntegrationTest\obj\Debug\net9.0\ref\WebApp.IntegrationTest.dll
+C:\Users\lento\Desktop\INGSOFT9\test\WebApp.IntegrationTest\obj\Debug\net9.0\WebApp.IntegrationTest.sourcelink.json

@@ -100,3 +100,4 @@ C:\Users\lento\Desktop\INGSOFT9\test\Application.IntegrationTest\obj\Debug\net9.
 C:\Users\lento\Desktop\INGSOFT9\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.pdb
 C:\Users\lento\Desktop\INGSOFT9\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.genruntimeconfig.cache
 C:\Users\lento\Desktop\INGSOFT9\test\Application.IntegrationTest\obj\Debug\net9.0\ref\Application.IntegrationTest.dll
+C:\Users\lento\Desktop\INGSOFT9\test\Application.IntegrationTest\obj\Debug\net9.0\Application.IntegrationTest.sourcelink.json

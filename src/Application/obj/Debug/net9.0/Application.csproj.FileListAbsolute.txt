@@ -9,3 +9,4 @@ C:\Users\lento\Desktop\INGSOFT9\src\Application\obj\Debug\net9.0\Application.dll
 C:\Users\lento\Desktop\INGSOFT9\src\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\lento\Desktop\INGSOFT9\src\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\lento\Desktop\INGSOFT9\src\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\lento\Desktop\INGSOFT9\src\Application\obj\Debug\net9.0\Application.sourcelink.json

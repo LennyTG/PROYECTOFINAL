@@ -1,15 +1,14 @@
 using System.Net;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Xunit;
 
 namespace WebApp.IntegrationTest
 {
-    public class IntegrationTestWeb : IClassFixture<WebApplicationFactory<Program>>
+    public class WebIntegrationTests : IClassFixture<WebApplicationFactory<Program>>
     {
         private readonly WebApplicationFactory<Program> _factory;
 
-        public IntegrationTestWeb(WebApplicationFactory<Program> factory)
+        public WebIntegrationTests(WebApplicationFactory<Program> factory)
         {
             _factory = factory;
         }
@@ -23,7 +22,7 @@ namespace WebApp.IntegrationTest
         }
 
         [Fact]
-        public async Task Test404ErrorPage()
+        public async Task TestNotFoundPage()
         {
             var client = _factory.CreateClient();
             var response = await client.GetAsync("/non-existent-page");

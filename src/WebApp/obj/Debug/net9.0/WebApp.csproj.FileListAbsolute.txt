@@ -32,3 +32,4 @@ C:\Users\lento\Desktop\INGSOFT9\src\WebApp\obj\Debug\net9.0\refint\WebApp.dll
 C:\Users\lento\Desktop\INGSOFT9\src\WebApp\obj\Debug\net9.0\WebApp.pdb
 C:\Users\lento\Desktop\INGSOFT9\src\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
 C:\Users\lento\Desktop\INGSOFT9\src\WebApp\obj\Debug\net9.0\ref\WebApp.dll
+C:\Users\lento\Desktop\INGSOFT9\src\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json

@@ -100,3 +100,4 @@ C:\Users\lento\Desktop\INGSOFT9\test\Application.UnitTest\obj\Debug\net9.0\refin
 C:\Users\lento\Desktop\INGSOFT9\test\Application.UnitTest\obj\Debug\net9.0\Application.UnitTest.pdb
 C:\Users\lento\Desktop\INGSOFT9\test\Application.UnitTest\obj\Debug\net9.0\Application.UnitTest.genruntimeconfig.cache
 C:\Users\lento\Desktop\INGSOFT9\test\Application.UnitTest\obj\Debug\net9.0\ref\Application.UnitTest.dll
+C:\Users\lento\Desktop\INGSOFT9\test\Application.UnitTest\obj\Debug\net9.0\Application.UnitTest.sourcelink.json

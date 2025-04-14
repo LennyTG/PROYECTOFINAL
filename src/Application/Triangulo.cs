@@ -2,14 +2,14 @@ namespace Application
 {
     public class Triangulo
     {
-        public static double CalcularPerimetro(double ladoA, double ladoB, double ladoC)
+        public static double CalcularPerimetro(double lado1, double lado2, double lado3)
         {
-            return ladoA + ladoB + ladoC;
+            return lado1 + lado2 + lado3;
         }
 
-        public static double CalcularArea(double baseTriangulo, double alturaTriangulo)
+        public static double CalcularArea(double baseTriangulo, double altura)
         {
-            return (baseTriangulo * alturaTriangulo) / 2;
+            return (baseTriangulo * altura) / 2;
         }
     }
 }

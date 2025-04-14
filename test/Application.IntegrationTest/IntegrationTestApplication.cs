@@ -6,17 +6,21 @@ namespace Application.IntegrationTest
     public class IntegrationTestApplication
     {
         [Fact]
-        public void CalculoDeAreaYVolumen_DeberiaSerCorrecto()
+        public void TestArea()
         {
             double baseTriangulo = 5.0;
-            double alturaTriangulo = 12.0;
-            double alturaPrisma = 10.0;
+            double altura = 12.0;
+            double area = Triangulo.CalcularArea(baseTriangulo, altura);
+            Assert.Equal(30.0, area, 2);
+        }
 
-            double area = Triangulo.CalcularArea(baseTriangulo, alturaTriangulo);
-            double volumen = PrismaTriangular.CalcularVolumen(area, alturaPrisma);
-
-            Assert.Equal(30.0, area);
-            Assert.Equal(300.0, volumen);
+        [Fact]
+        public void TestVolumen()
+        {
+            double areaBase = 30.0;
+            double altura = 10.0;
+            double volumen = PrismaTriangular.CalcularVolumen(areaBase, altura);
+            Assert.Equal(300.0, volumen, 2);
         }
     }
 }
